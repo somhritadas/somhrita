@@ -10,10 +10,10 @@ class Cylinder{
     }
     void SurfaceArea()
     {
-        System.out.println("Surface area of cylinder: "+2*pie*radius*(radius+height));
+        System.out.println("Surface area of a cylinder: "+2*pie*radius*(radius+height));
     }
     void Volume(){
-       System.out.println("Volume of cylinder: "+pie*radius*radius*height);
+       System.out.println("Volume of a cylinder: "+pie*radius*radius*height);
     }
 }
    class Cube{
